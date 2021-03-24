@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "twitch-py"
+name = "src"
 version = "0.1.0"
 description = ""
 authors = ["UserName <email@address.com>"]
