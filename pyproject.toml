@@ -2,7 +2,7 @@
 name = "twitch-py"
 version = "0.1.0"
 description = ""
-authors = ["RaeedAhmed <ruahmed7868@gmail.com>"]
+authors = ["UserName <email@address.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
